@@ -189,9 +189,9 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 
 Interface:
-![WhatsApp Image 2026-02-10 at 1 31 15 PM](https://github.com/user-attachments/assets/6e71c871-c91e-4f57-8f28-a3e35ef1c334)
+![WhatsApp Image 2026-02-10 at 1 31 15 PM](https://github.com/user-attachments/assets/6e71c871-c91e-4f57-8f28-a3e35ef1c334) <br>
 Sms Sent:
-![WhatsApp Image 2026-02-10 at 1 30 56 PM](https://github.com/user-attachments/assets/190104ab-a66b-4c2c-8a19-e4fca1a02a97)
+![WhatsApp Image 2026-02-10 at 1 30 56 PM](https://github.com/user-attachments/assets/190104ab-a66b-4c2c-8a19-e4fca1a02a97) <br>
 Sms Received:
 ![WhatsApp Image 2026-02-10 at 1 30 55 PM](https://github.com/user-attachments/assets/d70206af-14f6-4a1b-b6b7-67235526ed2a)
 
